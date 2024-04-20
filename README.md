@@ -1,11 +1,11 @@
-# Chas Portfollio App Router
+# Chas Portfollio NextJS App Router
 
 React/NextJS Portfolio Site with App Router
 
 
 ## Live
 
-[chas-portfolio.vercel.app](chas-portfolio.vercel.app)
+[https://chas-portfolio-app.vercel.app/](https://chas-portfolio-app.vercel.app/)
 
 
 ## Tech Stack
