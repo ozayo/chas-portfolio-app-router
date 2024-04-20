@@ -1,5 +1,5 @@
 {
-  "name": "nextjsapp",
+  "name": "portfolio-nextjs-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "14.1.4",
+    "next-themes": "^0.3.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.4"
+    "react-fast-marquee": "^1.6.4",
+    "react-icons": "^5.1.0",
+    "tech-stack-icons": "^2.0.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
