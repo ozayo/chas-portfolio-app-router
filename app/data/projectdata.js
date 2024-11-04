@@ -2,13 +2,23 @@
 
 export default [
   {
+    id: 18,
+    title: "Movie App",
+    image: "/images/projects/movie.png",
+    techs: ["React", "Vite", "TailwindCSS", "Cypress"],
+    description: "movie listing web application built with React, Redux Toolkit, and The Movie Database (TMDb) API.",
+    githubLink: "https://github.com/ozayo/movie-app",
+    liveLink: "https://movie-app-sage-six.vercel.app/",
+    mainpage: true,
+  },
+  {
     id: 1,
-    title: "React Portfolio Site",
+    title: "React Portfolio NextJs App Router",
     image: "/images/projects/pr01.png",
     techs: ["React", "NextJS", "TailwindCSS"],
-    description: "React Portfolio Site with Theme Switching",
-    githubLink: "https://github.com/ozayo/chas-portfolio",
-    liveLink: "https://chas-portfolio.vercel.app/",
+    description: "React Portfolio Site with NextJS App Router. (This website)",
+    githubLink: "https://github.com/ozayo/chas-portfolio-app-router",
+    liveLink: "https://chas-portfolio-app.vercel.app/",
     mainpage: true,
   },
   {
@@ -141,4 +151,5 @@ export default [
     liveLink: "https://html-escape.netlify.app/",
     mainpage: false,
   },
+
 ];
