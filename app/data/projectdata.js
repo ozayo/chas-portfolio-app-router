@@ -42,6 +42,16 @@ export default [
     mainpage: true,
   },
   {
+    id: 18,
+    title: "Chas E-Handel",
+    image: "/images/projects/pr-ehandel.png",
+    techs: ["React", "Vite", "tailwind", "context"],
+    description: "An AI story creation application made for the Chas Challenge.",
+    githubLink: "https://github.com/Filli4/E-Handel-2",
+    liveLink: "https://e-handel-2.vercel.app/",
+    mainpage: false,
+  },
+  {
     id: 2,
     title: "React Components Library",
     image: "/images/projects/pr06.png",
